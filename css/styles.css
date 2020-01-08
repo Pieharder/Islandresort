@@ -4,3 +4,27 @@ body {
   background-repeat: no-repeat;
 }
 
+h1 {
+    text-shadow: #FFFFFF 1px 0 10px;
+    color: black;
+}
+h2 {
+  text-shadow: #FFFFFF 1px 0 10px;
+  color: black;
+}
+h3 {
+  text-shadow: #FFFFFF 1px 0 10px;
+  color: black;
+}
+h4 {
+  text-shadow: #FFFFFF 1px 0 10px;
+  color: black;
+}
+h5 {
+  text-shadow: #FFFFFF 1px 0 10px;
+  color: black;
+}
+h6 {
+  text-shadow: #FFFFFF 1px 0 10px;
+  color: black;
+}
